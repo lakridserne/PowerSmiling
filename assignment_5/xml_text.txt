@@ -1,2 +1,4 @@
 
-xml is a useful protocol for dataexchange between system. It also is useful when dealing with url and cronjobs as the common protocol can be done using xml. The language is also made with simple structure and is still function as a basic communication method between systems that need to be integrated. When systems communicate with multiple programming languages xml was playing a crucial role for integration. 
+xml is a useful protocol for dataexchange between system. 
+It also is useful when dealing with url and cronjobs as the common protocol can be done using xml. 
+The language is also made with simple structure and is still function as a basic communication method between systems that need to be integrated. When systems communicate with multiple programming languages xml was playing a crucial role for integration. 
