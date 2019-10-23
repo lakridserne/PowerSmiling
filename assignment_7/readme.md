@@ -47,7 +47,6 @@ We take out 50 random rows from each of the 5 classes for validation.
 ## ML models
 We'll be using the following machine learning models to try to get the best results.
 
-* Support Vector Machine
 * Decision Tree
 * Logistic Regression
 * KNN
