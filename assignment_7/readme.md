@@ -5,6 +5,7 @@ We removed the indexes from our dataframe as we didn't need those.
 ## Assignment details
 In this assignment, we'll predict whether the price is too high or too low.
 In order for us to do that, we need some data to help us figure out the right price.
+Our label is therefore the column price change in pct, which we will divide in categories specifed below
 
 ## Categories
 Based on analysing the data we found that the best way to show the data would be to split it up in 5 categories.
@@ -40,6 +41,8 @@ to predict the price.
 * Number of rooms
 * Sell year
 * Construction year
+* Housing type
+* Sell type
 
 ## Pick out rows for validation
 We take out 50 random rows from each of the 5 classes for validation.
